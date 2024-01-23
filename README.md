@@ -3,7 +3,7 @@
 ### Bem-Vindo ao meu perfil 👋
 Eu sou aluno do Senai de Informática!
 - Faço o curso de Desenvolvimento de sistemas (até o fim de 2024).
-- Estes projetos são parte do meu avançar até me tornar um desenvolvedor de sistemas profissional.
+- Estes projetos são parte do meu caminho até me tornar um desenvolvedor de sistemas profissional.
 - Procuro sempre me desenvolver como pessoa e como profissional, sendo assim melhor que o dia anterior sempre! 
 
 
